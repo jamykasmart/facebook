@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(211, 207, 202);
+}
+
+.header{
+
+    background-color: #3b5998;
+    height: 85px;
+}
+
+.container{
+      width: 72%;
+      margin: 0 auto;
+}
+
+.container .label{
+    color: rgb(252, 252, 249);
+}
+
+.container .label h1{
+          font-size: 44px;
+          padding-top: 20px;
+          padding-left: 375;
+}
+
+.login{
+    padding-top: 60px;
+    padding-left: 390px;
+    font-family: sans-serif;
+}
+
+.content{
+    font-family: sans-serif;
+    float: left;
+    width: 50%;
+    color: rgb(6, 100, 158);
+    padding-top: 180px;
+    font-size: 15px;
+}
+
+.new{
+    font-size: 8px;
+    font-family: sans-serif;
+    color: rgb(6, 100, 158);
+    padding-left: 368px;
+}
+
+.modren{
+    padding-left: 390px;
+    padding-top: 40px;
+
+
+}
+
+
+
+
+
+
